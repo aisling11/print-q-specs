@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Q Viewer</string>
+    <string name="save_Q"> Save Q into a File </string>
+</resources>
